@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # main text of home
-name: John Doe
+name: hypersonic
 bio: A Person who travels the world eating noodles
 
 # twitter summary info
@@ -128,6 +127,4 @@ exclude:
     "FAQ.md",
     "vendor",
   ]
-=======
 theme: jekyll-theme-leap-day
->>>>>>> 9b1cdd01a993cdc78f01d026f30e75907a4e0838
